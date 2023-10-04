@@ -1,0 +1,3 @@
+Debtor Jed Matthew I owes PHP 1500
+Debtor Jed Matthew II owes PHP 3000
+Debtor Jed Matthew III owes PHP 4500
